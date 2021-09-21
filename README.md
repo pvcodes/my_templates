@@ -7,5 +7,7 @@
 - [CPP template for CP](cp_cpp_basic.cpp)
 - [CPP template for CP](cp_cpp_advance.cpp) 
 (Advance)
+- [CPP template for CP](cp_cpp_new.cpp)
+
 
 </p>
